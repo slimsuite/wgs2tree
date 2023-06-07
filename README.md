@@ -18,7 +18,7 @@ If you would like more information, or for help adapting to different data types
 
 ## License
 
-`wgs2tree` is freely available for use under a [GNU GPL v3 license](../LICENSE).
+`wgs2tree` is freely available for use under a [GNU GPL v3 license](https://github.com/slimsuite/wgs2tree/blob/main/LICENSE).
 
 ## Citation
 
